@@ -1,0 +1,16 @@
+{
+	"name": "data-structure",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"tsc": "tsc --watch",
+		"start": "nodemon ./dist/Pila_stack"
+	},
+	"keywords": [],
+	"author": "Hugo Andrés Diáz Bernal <hugoandresdiazbernal@gmail.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"nodemon": "^2.0.6"
+	}
+}
